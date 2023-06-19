@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - prints aphabet in lowcase and uppercase
  * Return: Always 0
